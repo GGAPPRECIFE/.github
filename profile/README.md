@@ -1,4 +1,4 @@
-# Núcleo de Avaliação de Políticas Públicas e Ciências de Dados do Recife (NAPCD)
+# Gerencia Geral de Avaliação de Políticas Públicas
 
 <img align="right" alt="marcela" height="300" style="border-radius:50px;" src="/img/motivacao.png">
 <br><br>
