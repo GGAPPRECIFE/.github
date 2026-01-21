@@ -113,5 +113,5 @@ A GGAPP participa ativamente de diversas iniciativas, como:
 <br>
 
 <div align="center">
-  <img alt="logo_napcd" height="100" src="/img/NAPCD LOGO VERSOES-00.png">
+  <img alt="logo_napcd" height="100" src="/img/Logo GGAPP - fundo transparente.png">
 </div>
