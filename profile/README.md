@@ -4,9 +4,15 @@
 
 <img align="right" alt="marcela" height="300" style="border-radius:50px;" src="/img/motivacao.png">
 <br><br>
-O Núcleo de Avaliação de Políticas Públicas e Ciências de Dados do Recife (NAPCD) tem como missão contribuir para a formulação e avaliação de políticas públicas, gerar e compartilhar conhecimento e assessorar a Prefeitura do Recife nas decisões estratégicas a partir de evidências.
+A **Gerência Geral de Avaliação de Políticas Públicas (GGAPP)** do Recife tem como foco contribuir para a formulação e avaliação de políticas públicas, assessorando a Prefeitura nas decisões estratégicas a partir de evidências.
 <br><br>
-A equipe do NAPCD é qualificada em levantar evidências em políticas públicas a partir de ciência de dados, literatura acadêmica e metodologias avançadas de avaliação. A utilização de evidências é fundamental para melhorar a efetividade das políticas públicas, investir melhor os recursos públicos, conseguir financiamentos e prêmios, gerar conhecimento e promover a prestação de contas e transparência.
+* **Missão:** Qualificar as decisões públicas pela força da evidência.
+* **Visão:** Ser um núcleo de excelência, que consolida uma cultura de políticas públicas orientadas por evidências.
+* **Valores:**
+    * Replicabilidade
+    * Parcimônia
+    * Sinergia
+    * Engenhosidade
 <br><br>
 
 ## Equipe
@@ -15,7 +21,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br>
   <b>Mayres Pequeno</b>
   <br>
-  <i>Gerente</i>
+  <i>Gerente Geral</i>
   <br><br>
   mayres.silva@recife.pe.gov.br
   <br><br><br><br><br>
@@ -79,7 +85,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
 
 ## Atuação
 
-O NAPCD atua em diversas áreas, tais como:
+A GGAPP atua em diversas áreas, tais como:
 <br>
 Políticas Públicas <br>
 Identificação do Problema: Avaliação de Necessidades <br>
