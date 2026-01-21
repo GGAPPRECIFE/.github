@@ -30,7 +30,7 @@ A **Gerência Geral de Avaliação de Políticas Públicas (GGAPP)** do Recife t
       <a href="mailto:mayres.silva@recife.pe.gov.br">Email</a>
     </td>
     <td align="center">
-      <img src="/img/renata.jpg" width="100px;" style="border-radius:50%;"/><br>
+      <img src="/img/renata.jpeg" width="100px;" style="border-radius:50%;"/><br>
       <b>Renata Cavalcanti</b><br>
       <i>Gerente</i><br>
       <a href="mailto:renata.aguiar@recife.pe.gov.br">Email</a>
