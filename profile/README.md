@@ -1,7 +1,5 @@
 # Gerência Geral de Avaliação de Políticas Públicas (GGAPP)
 
-**Visite nossa página web:** [Clique aqui](https://ggapp-site.netlify.app/)
-
 <img align="right" alt="motivação" height="250" style="border-radius:20px;" src="/img/motivacao.png">
 
 A **Gerência Geral de Avaliação de Políticas Públicas (GGAPP)** do Recife tem como foco contribuir para a formulação e avaliação de políticas públicas, assessorando a Prefeitura nas decisões estratégicas a partir de evidências.
